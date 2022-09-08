@@ -3,7 +3,7 @@ import {Container, Form, Image, Nav, Navbar} from "react-bootstrap";
 
 const Navigation: FC = () => {
     return (
-        <Navbar className='bg-light navbar-expand-lg pt-5'>
+        <Navbar className='bg-light navbar-expand-lg pt-4'>
             <Container>
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">
